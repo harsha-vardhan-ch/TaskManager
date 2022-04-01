@@ -1,0 +1,11 @@
+{
+	"name": "Text Manager",
+	"version": "1.0.0",
+	"description": "Saves Text and Displays",
+	"manifest_version": 3,
+	"author": "Harsha Vardhan Charagondla",
+	"action": {
+		"default_popup": "index.html",
+		"default_title": "Text"
+	}
+}
